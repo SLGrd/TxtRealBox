@@ -1,0 +1,8 @@
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxTRealBox.Properties.Resources.resources
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxTRealBox.csproj.GenerateResource.cache
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxTRealBox.csproj.CoreCompileInputs.cache
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxtRealBox.dll
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxtRealBox.pdb
+C:\Tutoriais\TxtRealBox\ctrNumeric\TxtRealBox.dll
+C:\Tutoriais\TxtRealBox\ctrNumeric\TxtRealBox.pdb
+C:\Tutoriais\TxtRealBox\ctrNumeric\ctrNumeric\obj\Release\TxTRealBox.csprojAssemblyReference.cache
